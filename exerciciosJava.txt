@@ -23,7 +23,7 @@ gerar a classe pessoa.
 12 - Escreva um programa que use herança para criar uma classe Aluno
 que herda de Pessoa e adiciona um atributo matricula. Criei o arquivo como aluno nesse exemplo
 13 - Escreva um programa que defina uma interface Veiculo com métodos
-acelerar() e frear(), e implemente essa interface em uma classe Carro. Criei o aaruivo como carro
+acelerar() e frear(), e implemente essa interface em uma classe Carro. Criei o aruivo como carro, main e veiculo para esse exercicio
 14 - Escreva um programa que solicite um número inteiro e exiba sua
 tabuada de 1 a 10.
 15 - Implemente uma calculadora de Índice de Massa Corporal (IMC) que
